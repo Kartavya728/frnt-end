@@ -611,7 +611,6 @@ export function DataGallery({ userType, theme, user }) {
             className="!z-[99999] bg-slate-900 py-30px border border-white/20 text-white shadow-lg backdrop-blur-none"
             position="popper"
             side="bottom"
-            sideOffset={30} 
             align="start"
             avoidCollisions={false}
             portal
