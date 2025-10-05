@@ -555,7 +555,7 @@ export function DataGallery({ userType, theme, user }) {
           position="popper"
           side="bottom"
           align="start"
-          sideOffset={4}
+
           avoidCollisions={false}
           portal
         >
@@ -583,7 +583,7 @@ export function DataGallery({ userType, theme, user }) {
           position="popper"
           side="bottom"
           align="start"
-          sideOffset={4}
+  
           avoidCollisions={false}
           portal
         >
@@ -613,7 +613,6 @@ export function DataGallery({ userType, theme, user }) {
             side="bottom"
             sideOffset={30} 
             align="start"
-            sideOffset={4}
             avoidCollisions={false}
             portal
           >
